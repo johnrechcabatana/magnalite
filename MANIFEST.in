@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include magnalite *.css
+recursive-include magnalite *.csv
+recursive-include magnalite *.html
+recursive-include magnalite *.ico
+recursive-include magnalite *.js
+recursive-include magnalite *.json
+recursive-include magnalite *.md
+recursive-include magnalite *.png
+recursive-include magnalite *.py
+recursive-include magnalite *.svg
+recursive-include magnalite *.txt
+recursive-exclude magnalite *.pyc

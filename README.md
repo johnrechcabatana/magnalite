@@ -1,0 +1,7 @@
+## magnalite
+
+magnalite
+
+#### License
+
+MIT
